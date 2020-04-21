@@ -1,5 +1,5 @@
-#include"mohannad.h"
-#include"lailaelsaeed.h"
+#include "m.h"
+#include "l.h"
 #include<iostream>
 using namespace std;
 
