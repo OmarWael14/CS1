@@ -3,5 +3,5 @@
 using namespace std;
 int main()
 {
-	print();
+	printl();
 }
